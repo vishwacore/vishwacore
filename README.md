@@ -1,5 +1,6 @@
-# 💫 About Me:
- Hi, 👋I'm Vishwa<br><br> Python Developer | Frontend Developer | Coding Enthusiast<br><br>-  Currently learning Python<br>-  Practicing problems on HackerRank & LeetCode<br>-   Interested in Frontend Development<br>-  Improving my problem-solving skills every day
+# Hi, 👋I'm Vishwa
+Python Developer | Frontend Developer | Coding Enthusiast
+<br>-  Currently learning Python<br>-  Practicing problems on HackerRank & LeetCode<br>-   Interested in Frontend Development<br>-  Improving my problem-solving skills every day
 
 
 ## 🌐 Socials:
