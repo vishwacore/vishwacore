@@ -1,5 +1,5 @@
-# Hi, 👋I'm Vishwa
-Python Developer | Frontend Developer | Coding Enthusiast
+# Hi, 👋I'm Vishwanath
+                              Python Developer | Frontend Developer | Coding Enthusiast
 <br>-  Currently learning Python<br>-  Practicing problems on HackerRank & LeetCode<br>-   Interested in Frontend Development<br>-  Improving my problem-solving skills every day
 
 
