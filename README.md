@@ -134,7 +134,7 @@ I'm continuously working on strengthening my fundamentals, building practical pr
 ## GitHub Profile Stats
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/vishwacore/count.svg" alt="Profile Views" />
+  <img src="https://hits.seeyoufarm.org/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvishwacore&count_bg=%23764BA2&title_bg=%231A1B26&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true" />
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fvishwacore&query=%24.public_repos&suffix=%2B&label=Repositories&style=flat-square&color=f093fb&labelColor=1a1b26" />
   <img src="https://img.shields.io/github/followers/vishwacore?label=Followers&style=flat-square&color=667eea&labelColor=1a1b26" />
   <img src="https://img.shields.io/github/stars/vishwacore?affiliations=OWNER&label=Stars&style=flat-square&color=764ba2&labelColor=1a1b26" />
